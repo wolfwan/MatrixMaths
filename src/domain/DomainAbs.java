@@ -10,6 +10,8 @@ package domain;
  */
 public abstract class  DomainAbs {
 
+    //sets individual ids for everything
+    
     private int id;
 
     /**
